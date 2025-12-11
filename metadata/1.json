@@ -1,0 +1,9 @@
+{
+  "name": "Fishcake #1",
+  "description": "The first Fishcake NFT",
+  "image": "https://你的GitHub名.github.io/fishcake-metadata/images/1.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Uncommon" },
+    { "trait_type": "Power", "value": 10 }
+  ]
+}
